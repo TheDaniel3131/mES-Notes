@@ -13,3 +13,5 @@
 - Characteristics of Algorithm includes well-defined inputs and outputs, clear and umambiguous, finiteness, feasible, and language independent.
 
 # Chapter 2: Pseudocode
+
+- Pseudocode is a description of a computer programing algorithm that uses Structural Conventions of programming languages and natural languages. It is called as "High-Level Language" and aims to generalize the logic and flow of a program, also an abstraction of a programming language which cannot be compiled.
