@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: What is Algorithm?
 
 - Graph Theory: To critically evaluate methods that tend to yield efficient algorithms. (Exam)
 
@@ -11,3 +11,5 @@
 - Algorithmic contains Input which is to get information, Storage to store information, Process involves Arithmetic, Repeat instructions, or Branch Conditions, Output to display or give information.
 
 - Characteristics of Algorithm includes well-defined inputs and outputs, clear and umambiguous, finiteness, feasible, and language independent.
+
+# Chapter 2: Pseudocode
