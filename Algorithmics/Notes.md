@@ -39,6 +39,8 @@
 
 - Algorithms can be classified based on their computational complexity, efficient implementation, data structures used, design paradigm, and the fields in which they are employed.
 
+(**Paradigm** refers to a fundamental approach or model for designing and building software systems. It provides a set of principles, concepts, and practices that guide developers in solving problems and organizing their code.)
+
 Linear data structures:
 
 - Lists
@@ -52,3 +54,11 @@ Graph data structures:
 - Binary trees
 - B-trees
 - Heaps
+
+### Classification by Design Paradigm
+
+- Divide and Conquer: Breaking down a problem into smaller subproblems or components, solving them independently or seperately, and then combining the solutions to obtain the final result.
+
+- Greedy: Making the best possible decision by choosing a local optimum at each stage of the algorithm.
+
+- Search: Exploring a search space to find a desired solution. It can be used in various problem-solving scenarios, such as finding a path in a graph or searching for an element in a list. Basically, search algorithms and backtracking.
