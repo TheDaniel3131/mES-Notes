@@ -62,3 +62,5 @@ Graph data structures:
 - Greedy: Making the best possible decision by choosing a local optimum at each stage of the algorithm.
 
 - Search: Exploring a search space to find a desired solution. It can be used in various problem-solving scenarios, such as finding a path in a graph or searching for an element in a list. Basically, search algorithms and backtracking.
+
+# Chapter 3: Algorithm Analysis & Asymptotic Growth Rate
