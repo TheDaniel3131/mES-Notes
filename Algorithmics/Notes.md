@@ -64,3 +64,9 @@ Graph data structures:
 - Search: Exploring a search space to find a desired solution. It can be used in various problem-solving scenarios, such as finding a path in a graph or searching for an element in a list. Basically, search algorithms and backtracking.
 
 # Chapter 3: Algorithm Analysis & Asymptotic Growth Rate
+
+- Algorithm is a step-by-step process to solve any problem which can be written in many ways. We need to analyze these algorithms to obtain the best or optimum solution.
+
+- Algorithm expects to work fast for any input size. Small input size works the best.
+
+- To analyze the validity of an algorithm -> Order of growth
