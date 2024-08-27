@@ -69,4 +69,16 @@ Graph data structures:
 
 - Algorithm expects to work fast for any input size. Small input size works the best.
 
-- To analyze the validity of an algorithm -> Order of growth
+- To analyze the validity of an algorithm -> Order of growth. Order of growth is the change in behavior of algorithm. We need to understand how the algorithm works based on the increasing input size (n). Ex: n=5 is fast and small, but what about n=5,000,000? This is to test the algorithm if it is delaying in real-time which is useful for real-time application, especially moments like worst case scenarios.
+
+- In algorithm, there is best case, average case, and worst case.
+
+array = [25, 31, 42, 71, 105]
+
+- Best case: If the element we want to find is 25, then it will be C(n) = 1
+- Worst case: If the elemnent we want to find is 108 but then it cannot be found, then it will be C(n) = n
+- Average case: If the element we want to find is not first or last but somewhere in the middle. Probability of successful search = p, unsuccessful search = 1 - p (0 <= p <= 1). Therefore, if p = 1 then, C(n) = (n+1)/2, else, C(n) = n.
+
+![alt text](image.png)
+
+- Rules of primitive operations: assignment, calculations, indexing, and calling/return, all of them takes unit time.
