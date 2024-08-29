@@ -63,7 +63,7 @@ Graph data structures:
 
 - Search: Exploring a search space to find a desired solution. It can be used in various problem-solving scenarios, such as finding a path in a graph or searching for an element in a list. Basically, search algorithms and backtracking.
 
-# Chapter 3: Algorithm Analysis & Asymptotic Growth Rate
+# Chapter 3: Algorithm Analysis & Asymptotic Growth Rate (Part 1)
 
 - Algorithm is a step-by-step process to solve any problem which can be written in many ways. We need to analyze these algorithms to obtain the best or optimum solution.
 
@@ -82,3 +82,13 @@ array = [25, 31, 42, 71, 105]
 ![alt text](image.png)
 
 - Rules of primitive operations: assignment, calculations, indexing, and calling/return, all of them takes unit time.
+
+### Graphs
+
+![alt text](image-1.png)
+
+- Drawbacks: Concern only the order of growth, about linear in time & quadratic in time, implementation details are insignificant.
+
+- Tool to analyze algorithm's running time: Operations of order of growth, tight bounds/upper bounds/lower bounds, input size approaches to infinite = asymptotic running time. Operations of order of growth including Big O (upper bound), Big Omega (lower bound), and Big Theta (tight bound).
+
+# Chapter 4: Algorithm Analysis & Asymptotic Growth Rate (Part 2)
